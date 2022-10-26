@@ -1,0 +1,35 @@
+.taust{background-color: rgb(242, 239, 239) }
+
+.pealkiri1 {color: rgb(171, 38, 52);
+    font-size: 90px;
+    font-family: 'Times New Roman', Times, serif;
+text-align: left;
+line-height: 1px;}
+
+.pealkiri2 {color: rgb(171, 38, 52);
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    line-height: 1px;}
+
+.header{color: rgb(6, 32, 87);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    text-align: start;}
+
+.tekst {color: rgb(6, 32, 87);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+     text-align: justify;}
+
+.pilt{border-color:black;
+    border-style: dotted;
+    border-width: 4px;}
+
+.tabelipealkiri{font-weight: bold;}
+
+.rida{display: flex;}
+.column{flex: 50%;}
+
+.taust2{background-image: url("norrataust1.jpeg")}
+
